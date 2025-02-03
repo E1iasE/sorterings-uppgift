@@ -1,0 +1,14 @@
+C:\GitHub\sorterings-uppgift\bin\Debug\net8.0\sorterings-uppgift.exe
+C:\GitHub\sorterings-uppgift\bin\Debug\net8.0\sorterings-uppgift.deps.json
+C:\GitHub\sorterings-uppgift\bin\Debug\net8.0\sorterings-uppgift.runtimeconfig.json
+C:\GitHub\sorterings-uppgift\bin\Debug\net8.0\sorterings-uppgift.dll
+C:\GitHub\sorterings-uppgift\bin\Debug\net8.0\sorterings-uppgift.pdb
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.AssemblyInfoInputs.cache
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.AssemblyInfo.cs
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.csproj.CoreCompileInputs.cache
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.dll
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\refint\sorterings-uppgift.dll
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.pdb
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\sorterings-uppgift.genruntimeconfig.cache
+C:\GitHub\sorterings-uppgift\obj\Debug\net8.0\ref\sorterings-uppgift.dll
